@@ -69,7 +69,7 @@ code {
     color: rgb(38, 16, 236);
     overflow: hidden;
     white-space: nowrap;
-    animation: text 4s steps(15) infinite alternate;
+    animation: text 8s steps(15) infinite alternate;
     font-family: 'Montserrat', sans-serif;
 }
 
