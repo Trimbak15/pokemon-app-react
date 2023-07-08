@@ -1,3 +1,4 @@
+![pokemon3](https://github.com/Trimbak15/pokemon-app-react/assets/118504736/c541b7d5-d58b-493b-8d2b-084e4c53c1bd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Uploading pokemon2.png…]()
+![Uploading pokemon1.png…]()
+
